@@ -1,2 +1,3 @@
-# Example1
-A python Program that could perform basic math calulcations.
+# KNN Classifier
+A Python code to Classify data for BreastCancer Dataset.
+Algorithm Used - KNN Classifer
